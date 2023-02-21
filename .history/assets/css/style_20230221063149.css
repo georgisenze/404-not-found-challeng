@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    font-family: monospace;
+}
+
+.main {
+    min-width: 100%;
+    height: 100%;
+    background-color: whitesmoke;
+}
+
+header p {
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 15px;
+    padding: 50px;
+}
+
+.container{
+    display: flex;
+    
+}
